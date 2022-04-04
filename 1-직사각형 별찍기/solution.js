@@ -9,3 +9,4 @@ process.stdin.on("data", (data) => {
     console.log(row); //b 만큼 row를 반복
   }
 });
+``;
